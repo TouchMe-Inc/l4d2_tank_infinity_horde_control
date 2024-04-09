@@ -1,0 +1,34 @@
+"Phrases"
+{
+	"TAG"
+	{
+		"en"			"<{green}Horde{default}> "
+	}
+
+	"HORDE_BLOCK_START"
+	{
+		"en"			"The horde is {blue}paused{default} due to a tank spawning"
+	}
+
+	"HORDE_BLOCK_END"
+	{
+		"#format"		"{1:.1f}"
+		"en"			"Progressing by {olive}{1}%%{default} will start the horde"
+	}
+
+	"HORDE_LIMITED_START"
+	{
+		"en"			"The survivors have gone too far. The Horde has been {blue}partially restored"
+	}
+
+	"HORDE_LIMITED_END"
+	{
+		"#format"		"{1:.1f},{2:.0f}"
+		"en"			"Progressing by {olive}{1}%%{default} will restore the horde. Horde is at {blue}{2}%% strength"
+	}
+
+	"HORDE_UNLIMITED"
+	{
+		"en"			"The survivors have gone too far. The Horde has been {blue}fully restored"
+	}
+}

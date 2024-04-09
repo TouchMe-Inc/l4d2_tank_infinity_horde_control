@@ -1,0 +1,34 @@
+"Phrases"
+{
+	"TAG"
+	{
+		"ru"			"<{green}Horde{default}> "
+	}
+
+	"HORDE_BLOCK_START"
+	{
+		"ru"			"Орда {blue}остановлена{default} из-за спавна танка"
+	}
+
+	"HORDE_BLOCK_END"
+	{
+		"#format"		"{1:.1f}"
+		"ru"			"Продвижение ещё на {olive}{1}%%{default} приведёт к появлению орды"
+	}
+
+	"HORDE_LIMITED_START"
+	{
+		"ru"			"Выжившие зашли слишком далеко. Орда {blue}частично восстановлена"
+	}
+
+	"HORDE_LIMITED_END"
+	{
+		"#format"		"{1:.1f},{2:.0f}"
+		"ru"			"Продвижение ещё на {olive}{1}%%{default} восстановит орду. Сила орды состовляет {blue}{2}%%"
+	}
+
+	"HORDE_UNLIMITED"
+	{
+		"ru"			"Выжившие зашли слишком далеко. Орда {blue}полностью восстановлена"
+	}
+}
